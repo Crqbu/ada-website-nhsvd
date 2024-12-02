@@ -8,3 +8,4 @@ navigation:
   # Remove this if you had an entry for data_story.md
 #  - title: Data Story
 #    url: data_story.md
+repository: https://github.com/epfl-ada/ada-2024-project-nhsvd
