@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Data Story
+title: Home
 ---
+
 
 # Who Dies the Most? The Tragic Truth About Movie Mortality
 
