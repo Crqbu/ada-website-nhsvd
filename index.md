@@ -80,8 +80,3 @@ By blending text mining, machine learning, and data visualization, we’ve turne
 
 ### chatgpt proposed to add this what do you think guys ?
 Curious about your favorite character? Explore our [interactive visualization](link_to_visualizations) or dive into the [full analysis on GitHub](link_to_repo).
-
-<body>
-    <p>If you are not redirected automatically, follow this <a href="https://github.com/epfl-ada/ada-2024-project-nhsvd">link to the repository</a>.</p>
-</body>
-</html>
