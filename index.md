@@ -79,7 +79,7 @@ Not all movies explicitly list characters by name in their metadata. For these c
 - **Unmatched Movies**: For movies without exact matches, we used a threshold of 90% similarity for fuzzy matching, extracting 69 additional matches from 2,559 unmatched entries.
 
 ### Visualization: Character Matching Analysis
-![Character Matching Analysis](images/fuzzy_matches.png)
+![Character Matching Analysis](images/character_matching_analysis.png)
 
 #### T-Test Results:
 - **T-statistic**: -4.94
