@@ -63,7 +63,7 @@ Some actors just can’t seem to catch a break. Analyzing death frequencies in t
 
 Meanwhile, comedic actors like Jim Carrey and Adam Sandler rarely take on roles that involve death.
 
-![Actor Mortality Leaderboard](link_to_your_actor_mortality_visualization)
+![Actor Mortality Leaderboard](linktoourfutureleaderboard)
 
 ---
 
@@ -78,5 +78,5 @@ By blending text mining, machine learning, and data visualization, we’ve turne
 
 ---
 
-### Explore More
+### chatgpt proposed to add this what do you think guys ?
 Curious about your favorite character? Explore our [interactive visualization](link_to_visualizations) or dive into the [full analysis on GitHub](link_to_repo).
