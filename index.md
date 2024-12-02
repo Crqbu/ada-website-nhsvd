@@ -49,7 +49,7 @@ Using embeddings and KMeans clustering, we identified patterns in these tropes. 
 - **Villains follow closely at 60%.** Their deaths serve justice and satisfy audience expectations.
 - **Comedic sidekicks rarely die, with a survival rate of over 80%.**
 
-![Character Tropes Embedding Visualization](images/Embedding Visualizatignoith Tropes.png)
+![Character Tropes Embedding Visualization](images/embedding_visualization_with_tropes.png)
 
 ---
 
