@@ -5,6 +5,7 @@ show_downloads: True
 navigation:
   - title: Home
     url: README.md
-  - title: Data Story
-    url: data_story.md
+  # Remove this if you had an entry for data_story.md
+#  - title: Data Story
+#    url: data_story.md
 
