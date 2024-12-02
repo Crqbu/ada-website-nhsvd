@@ -35,6 +35,8 @@ Our first challenge was finding death mentions in plot summaries. Armed with a c
 
 ![Genre-specific mortality rates](link_to_your_genre_mortality_visualization)
 
+![Distribution of death rates across movies](images/distribution_of_death_rates_across_movies.png)
+
 ---
 
 ## 3. Tropes and Clusters: Who’s the Most Doomed?
