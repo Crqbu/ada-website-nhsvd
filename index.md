@@ -128,6 +128,7 @@ Our analysis also revealed that movies with a high number of characters tend to 
 ## Conclusion: What We Learned
 
 This data story has revealed fascinating truths about movie mortality:
+
 - **Mentors and villains** are the most doomed, while comedic sidekicks and heroes are the most likely to survive.
 - **Horror and War genres** are the deadliest, while Comedy is a safe haven.
 - **Sean Bean remains the reigning champion of cinematic deaths**, but we now have data to back it up.
