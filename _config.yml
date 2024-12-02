@@ -4,6 +4,7 @@ description: "A data-driven exploration of movie character mortality."
 show_downloads: True
 navigation:
   - title: Home
-    url: /
-  - title: Example
-    url: example
+    url: README.md
+  - title: Data Story
+    url: data_story.md
+
