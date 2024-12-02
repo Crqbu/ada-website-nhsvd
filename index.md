@@ -81,7 +81,7 @@ Not all movies explicitly list characters by name in their metadata. For these c
 ### Visualization: Character Matching Analysis
 ![Character Matching Analysis](images/character_matching_analysis.png)
 
-#### T-Test Results:
+#### T-Test Result:
 - **T-statistic**: -4.94
 - **P-value**: 8.17e-07  
 The data suggests that movies without listed characters are less reliable, as the LLM often overemphasizes the names of characters who die.
